@@ -1,0 +1,27 @@
+streamlit
+python-dotenv
+
+# LangChain core + community integrations
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM providers (configurable — only the one you use needs a valid API key)
+langchain-google-genai
+langchain-openai
+langchain-groq
+
+# Vector database
+chromadb
+
+# Embeddings
+sentence-transformers
+langchain-huggingface
+
+# Document loaders
+pypdf
+docx2txt
+
+# Testing (optional, for tests/)
+pytest
